@@ -15,3 +15,23 @@
 **Method Overview:**
 Automated construction of three-tiered benchmarks (Earth-Iron, Earth-Silver, Earth-Gold) from 100K papers, enabling comprehensive evaluation of knowledge coverage, professional proficiency, and scientific exploration capabilities.
 
+## Evaluation
+
+### Clone this repository
+```bash
+git clone https://github.com/black-yt/EarthSE.git
+cd ReaLS
+```
+
+### Configure API key
+```bash
+export OPENAI_API_KEY="*****"
+export OPENAI_BASE_URL="*****"
+```
+
+### Run the test script
+```bash
+cd evaluation
+python Earth_Iron_Silver.py
+python Earth_Gold.py
+```
