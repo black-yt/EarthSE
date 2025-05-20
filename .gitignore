@@ -18,10 +18,6 @@ __pycache__/
 *.pth
 *.pt
 *.safetensors
-*.JPEG
-*.jpg
-*.jpeg
-*.png
 *.tgz
 *.npy
 /evaluation/results/*
