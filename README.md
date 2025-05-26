@@ -2,7 +2,7 @@
 
 # EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability for Large Language Models
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+<a href="https://arxiv.org/pdf/2505.17139"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 
 <img src="./assets/main-results.png" width="100%" alt="main-results" align="center">
 
