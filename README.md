@@ -34,7 +34,6 @@ Automated construction of three-tiered benchmarks (Earth-Iron, Earth-Silver, Ear
 ### Clone this repository
 ```bash
 git clone https://github.com/black-yt/EarthSE.git
-cd ReaLS
 ```
 
 ### Configure API key
