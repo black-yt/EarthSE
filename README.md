@@ -1,6 +1,6 @@
 <div align="center">
 
-# EarthSE: A Benchmark Evaluating Earth Scientific Exploration Capability for Large Language Models
+# EarthSE: A Benchmark for Evaluating Earth Scientific Exploration Capability of LLMs
 
 <a href="https://arxiv.org/pdf/2505.17139"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 
